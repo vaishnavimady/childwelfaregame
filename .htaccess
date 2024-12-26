@@ -1,0 +1,5 @@
+RewriteEngine On    # Turn on the rewriting engine
+
+RewriteRule    ^level1/?$    index.php    [NC,L]
+RewriteRule    ^level2/?$    level2.php    [NC,L]
+RewriteRule    ^level3/?$    level3.php    [NC,L]

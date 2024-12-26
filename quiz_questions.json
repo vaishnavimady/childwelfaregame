@@ -1,0 +1,178 @@
+[
+    {
+      "passage": {
+        "heading": "Passage",
+        "text": "Ravi, a 10-year-old boy, works long hours at a factory, assembling small parts for toys. He often misses school and doesn't have time to play with other children. Ravi looks tired and unkempt, and his clothes are dirty. When asked about his work, he says he needs to help his family make ends meet. Ravi dreams of going to school and becoming a doctor, but his current situation makes it seem impossible."
+      },
+      "questions": [
+        {
+          "text": "1. What does Ravi do for work?",
+          "options": ["He works at a school", "He helps his family with household chores", "He works at a factory", "He plays with other children"],
+          "correctAnswer": "C"
+        },
+        {
+          "text": "2. Why does Ravi miss school?",
+          "options": ["Because he doesn't like school", "Because he needs to work", "Because he is sick", "Because he is on vacation"],
+          "correctAnswer": "B"
+        },
+        {
+          "text": "3. How does Ravi feel about his work?",
+          "options": ["He loves it", "He doesn't mind it", "He wishes he didn't have to work", "He prefers it to going to school"],
+          "correctAnswer": "C"
+        },
+        {
+          "text": "4. What is Ravi's dream for the future?",
+          "options": ["To become a doctor", "To become a factory owner", "To travel the world", "To become a teacher"],
+          "correctAnswer": "A"
+        },
+        {
+          "text": "5. Why does Ravi work?",
+          "options": ["Because he wants to", "Because his family doesn't need the money", "Because he needs to help his family financially", "Because he enjoys working"],
+          "correctAnswer": "C"
+        },
+        {
+          "text": "6. How does Ravi's work affect his education?",
+          "options": ["It improves his grades", "It has no effect", "It prevents him from going to school", "It makes him enjoy school more"],
+          "correctAnswer": "C"
+        },
+        {
+          "text": "7. What does Ravi dream of becoming?", 
+          "options": ["A factory worker", "A teacher", "A doctor", "A scientist"],
+          "correctAnswer": "C"
+        },
+        {
+          "text": "8. Why is Ravi's situation challenging?",
+          "options": ["Because he has too much free time", "Because he doesn't have to work", "Because he has to work long hours at a young age", "Because he has many friends to play with"],
+          "correctAnswer": "C"
+        },
+        {
+          "text": "9. What does Ravi's work prevent him from doing?", 
+          
+          "options": ["Going to school", "Playing with other children", "Helping his family", "Resting"],
+          "correctAnswer": "B"
+        },
+        {
+          "text": "10. How does Ravi feel about his dream of becoming a doctor?",
+          "options": ["He is excited", "He is unsure", "He is determined", "He is afraid"],
+          "correctAnswer": "C"
+        }
+      ]
+    },
+    {
+      "passage": {
+        "heading": "Passage",
+        "text": "Meet Alex, a 10-year-old boy who loves playing soccer and spending time with his family. Recently, Alex has been feeling uncomfortable around his older cousin, Jake, who often comes to visit. During Jake's visits, Alex notices that Jake sometimes touches him in ways that make him feel strange and scared. Alex has started avoiding being alone with Jake and feels anxious whenever Jake is around."
+      },
+      "questions": [
+        {
+          "text": "question11.jpg",
+          "options": ["Option A", "Option B", "Option C", "Option D"],
+          "correctAnswer": "A"
+        },
+        {
+          "text": "question12.jpg",
+          "options": ["Option A", "Option B", "Option C", "Option D"],
+          "correctAnswer": "B"
+        },
+        {
+          "text": "question13.jpg",
+          "options": ["Option A", "Option B", "Option C", "Option D"],
+          "correctAnswer": "C"
+        },
+        {
+          "text": "question14.jpg",
+          "options": ["Option A", "Option B", "Option C", "Option D"],
+          "correctAnswer": "D"
+        },
+        {
+          "text": "question15.jpg",
+          "options": ["Option A", "Option B", "Option C", "Option D"],
+          "correctAnswer": "A"
+        },
+        {
+          "text": "question16.jpg",
+          "options": ["Option A", "Option B", "Option C", "Option D"],
+          "correctAnswer": "B"
+        },
+        {
+          "text": "question17.jpg",
+          "options": ["Option A", "Option B", "Option C", "Option D"],
+          "correctAnswer": "C"
+        },
+        {
+          "text": "question18.jpg",
+          "options": ["Option A", "Option B", "Option C", "Option D"],
+          "correctAnswer": "D"
+        },
+        {
+          "text": "question19.jpg",
+          "options": ["Option A", "Option B", "Option C", "Option D"],
+          "correctAnswer": "A"
+        },
+        {
+          "text": "question20.jpg",
+          "options": ["Option A", "Option B", "Option C", "Option D"],
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "passage": {
+        "heading": "Passage",
+        "text": "This is passage 3 text. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      },
+      "questions": [
+        {
+          "text": "question21.jpg",
+          "options": ["Option A", "Option B", "Option C", "Option D"],
+          "correctAnswer": "A"
+        },
+        {
+          "text": "question22.jpg",
+          "options": ["Option A", "Option B", "Option C", "Option D"],
+          "correctAnswer": "B"
+        },
+        {
+          "text": "question23.jpg",
+          "options": ["Option A", "Option B", "Option C", "Option D"],
+          "correctAnswer": "C"
+        },
+        {
+          "text": "question24.jpg",
+          "options": ["Option A", "Option B", "Option C", "Option D"],
+          "correctAnswer": "D"
+        },
+        {
+          "text": "question25.jpg",
+          "options": ["Option A", "Option B", "Option C", "Option D"],
+          "correctAnswer": "A"
+        },
+        {
+          "text": "question26.jpg",
+          "options": ["Option A", "Option B", "Option C", "Option D"],
+          "correctAnswer": "B"
+        },
+        {
+          "text": "question27.jpg",
+          "options": ["Option A", "Option B", "Option C", "Option D"],
+          "correctAnswer": "C"
+        },
+        {
+          "text": "question28.jpg",
+          "options": ["Option A", "Option B", "Option C", "Option D"],
+          "correctAnswer": "D"
+        },
+        {
+          "text": "question29.jpg",
+          "options": ["Option A", "Option B", "Option C", "Option D"],
+          "correctAnswer": "A"
+        },
+        {
+          "text": "question30.jpg",
+          "options": ["Option A", "Option B", "Option C", "Option D"],
+          "correctAnswer": "B"
+        }
+      ]
+    }
+  ]
+  

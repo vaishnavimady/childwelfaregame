@@ -1,0 +1,180 @@
+@font-face {
+    font-family: "Land Speed Record V1";
+    src: url("https://db.onlinewebfonts.com/t/159ac426cc83904f19bd719bb489b0c3.eot");
+    src: url("https://db.onlinewebfonts.com/t/159ac426cc83904f19bd719bb489b0c3.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/159ac426cc83904f19bd719bb489b0c3.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/159ac426cc83904f19bd719bb489b0c3.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/159ac426cc83904f19bd719bb489b0c3.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/159ac426cc83904f19bd719bb489b0c3.svg#Land Speed Record V1")format("svg");
+}
+body{
+    background-image: url(./quizback.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#game-container {
+    width: 800px;
+    margin: 250px auto;
+    text-align: center;
+    font-family: 'Roboto', sans-serif; /* Add custom font */
+}
+
+#quiz-container {
+    margin-top: 20px;
+    display: none;
+    max-width: 600px; /* Set maximum width for the container */
+    margin: 0 auto; /* Center the container horizontally */
+}
+
+#passage-container {
+    margin-bottom: 20px;
+}
+
+#passage-heading {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+#passage-text {
+    font-size: 16px;
+}
+
+#question-container {
+    margin-bottom: 20px;
+}
+
+#question-image {
+    max-width: 100%; /* Make sure the image fits within the container */
+    height: auto; /* Maintain aspect ratio */
+    border: 1px solid #000;
+    border-radius: 10px; /* Add border radius for rounded corners */
+}
+
+.option {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 18px; /* Increase font size */
+}
+
+#submit-btn {
+    padding: 15px 30px; /* Increase padding */
+    background-color: #6e3fff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 20px; /* Increase font size */
+    border-radius: 8px;
+}
+
+#result-modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.4);
+}
+
+.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+    max-width: 600px; /* Set maximum width for the modal content */
+    border-radius: 10px; /* Add border radius for rounded corners */
+}
+
+.close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+@keyframes blink {
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+#game-container {
+    width: 800px;
+    margin: 50px auto;
+    text-align: center;
+    font-family: 'Roboto', sans-serif; /* Add custom font */
+}
+
+#start-btn {
+    padding: 15px 30px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 8px;
+    animation: blink 1s infinite; /* Add animation */
+    transition: all 0.3s ease; /* Add transition */
+}
+
+#start-btn:hover {
+    background-color: #45a049;
+}
+
+#quiz-container {
+    margin-top: 20px;
+    display: none;
+}
+.mukta-extralight {
+    font-family: "Mukta", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+  
+  .mukta-light {
+    font-family: "Mukta", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .mukta-regular {
+    font-family: "Mukta", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .mukta-medium {
+    font-family: "Mukta", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .mukta-semibold {
+    font-family: "Mukta", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .mukta-bold {
+    font-family: "Mukta", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .mukta-extrabold {
+    font-family: "Mukta", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+  }
+  
